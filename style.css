@@ -240,7 +240,7 @@ img {
 .btn-show-all > i {
   margin-left: 10px;
   font-size: 1.6rem;
-  
+  color:white;
 }
 
 .btn-show-all:hover > i {
